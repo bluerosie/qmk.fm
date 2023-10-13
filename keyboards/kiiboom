@@ -1,0 +1,14 @@
+# KiiBOOM Moonshadow
+
+A customizable 75% encoder keyboard.
+
+* Keyboard Maintainer: The QMK Community
+* Hardware Supported:KiiBOOM 81 QMK
+* Hardware Availability: [KiiBOOM](KiiBOOM.com)
+
+**How to Reset**: 1. Unplug the cable of the keyboard.
+2. Press the ESC key and hold it.
+3. Plug in the cable to connect the computer and keyboard, do NOT release the ESC key until the cable is plugged into both computer and the keyboard.
+4. Release the ESC key and wait until the computer completes the setup for USB.
+
+See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
